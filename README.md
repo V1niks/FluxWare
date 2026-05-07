@@ -51,6 +51,11 @@
 <img width="356" height="193" alt="Снимок экрана 2026-04-10 162214" src="https://github.com/user-attachments/assets/26a9ecc0-021a-4e02-b020-38b70dd0e95d" />  
 
 
+# Watermark (Beta)
+<img width="216" height="38" alt="Снимок экрана 2026-04-20 165914" src="https://github.com/user-attachments/assets/25df0559-4229-4c61-ba28-c71f2c88f266" />
+
+
+
 # Links
 > [!TIP]
 > The base the cheat is built on [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n89PDURbTg)
