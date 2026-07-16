@@ -47,10 +47,10 @@
 
 
 # Cheat Menu 
-<img width="1672" height="880" alt="Снимок экрана 2026-04-10 161834" src="https://github.com/user-attachments/assets/68439f02-5821-4af4-b245-953ef7ab0099" />
+<img width="1672" height="880" alt="S2s3ef7ab0099" src="https://github.com/user-attachments/assets/a132032f-2025-4b9e-9891-6b2918161074" />
 
 # Possibilities
-<img width="356" height="193" alt="Снимок экрана 2026-04-10 162214" src="https://github.com/user-attachments/assets/26a9ecc0-021a-4e02-b020-38b70dd0e95d" />  
+<img width="356" height="193" alt="kllsdb70dd0e95d" src="https://github.com/user-attachments/assets/6cc5c0d3-6d8a-4ec1-99a3-a778a7af8228" />
 
 
 # Links
