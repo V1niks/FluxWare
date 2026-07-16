@@ -43,7 +43,8 @@
 
 # ScreenShot
 
-<img width="1775" height="941" alt="screengits" src="https://github.com/user-attachments/assets/80e7c21d-68d0-44bf-82e8-c5466cfba2b3" />
+<img width="1775" height="941" alt="S12b3" src="https://github.com/user-attachments/assets/33639d8e-5678-4c9c-ad93-6812908c7d06" />
+
 
 # Cheat Menu 
 <img width="1672" height="880" alt="Снимок экрана 2026-04-10 161834" src="https://github.com/user-attachments/assets/68439f02-5821-4af4-b245-953ef7ab0099" />
