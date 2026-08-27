@@ -17,8 +17,7 @@
 >• Bomb ESP  
 >• autoaccept  
 >• norecoil  
->• Smooth Aimbot (aim settings)     
->• Target Delay (aim settings)   
+>• Smooth Aimbot (aim settings)       
 >• Watermark   
 >• Team Check for ESP  
 >• Old bug fixes  
