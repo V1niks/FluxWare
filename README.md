@@ -17,9 +17,7 @@
 >• Bomb ESP  
 >• autoaccept  
 >• norecoil  
->• Smooth Aimbot (aim settings)  
->• Wall Check (aim settings)  
->• Bone Selection (aim settings)  
+>• Smooth Aimbot (aim settings)     
 >• Target Delay (aim settings)   
 >• Watermark   
 >• Team Check for ESP  
